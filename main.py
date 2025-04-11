@@ -1,3 +1,6 @@
-def greet(name):
-  print(f"Hello, {name}!")
-greet("GitHub")
+极好的 迎接(名字):
+  打印(“你好，{名字}!")
+极好的 再见(名字):
+  打印(f“再见，{名字}!")
+迎接(“GitHub”)
+再见(“GitHub”)
